@@ -1,44 +1,38 @@
-- 👋 Hi, I’m @OmarFaruk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hello, I'm Omar Faruk!  
+💻 **Programmer |  Web Developer**  
 
-<!---
-Omar3278500/Omar3278500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!DOCTYPE html>
-<html>
-  <head>
-    <taitel>
-       <h1 style="color:rgba(7, 245, 31, 0.895);"align="center"> About Me</h1>
-    </taitel>
-   
-  </hade>
+🔹 **Skills:** HTML | CSS | JavaScript | 
+🔹 **Learning:** UI UX | 
 
- <body style="background-color: hsl(22, 50%, 12%);">
-   <h1 style="text-align: center;color: yellowgreen;font-size: 250%;">My Information</h1>
-   <h2 style="background-color: rgb(9, 235, 103); text-emphasis-color: red=;">My name is Md Omar Faruk <br>
-    Iam 16+ Year Old<br/>
-    My Email: <address style="font: size 100px;%;">mdfaruk07220722d@gmail.com</address> 
-    My Phoone Namber:01781738841
-   </h2>
-    <h2 style="color: rgb(5, 67, 239);text-align: justify;text-align: center;font-size: 250%;"> My All socal acount link <h2>
-     <h3><a href="https://www.facebook.com/profile.php?id=100060405290795"> 
-   	  ♥Facebook <a/> <h3/> 
-      <h3> <a href="https://youtube.com/@mdfarukyt3695">	♥Youtube <a/><br>
-      
-      <h3>
-      
-      <a href="https://www.tiktok.com/@faruk5698">♥Tiktok</a/> <br> <h3/>
-    
-     <h3><a href="https://www.instagram.com/mdfaruk07220722/">♥instragram</a>
-   </h3> 
-      
- </body>
+📫 **Contact me:**  
+[![GitHub](https://img.shields.io/badge/GitHub-OmarFaruk-blue?style=flat-square&logo=github)](https://github.com/OmarFaruk)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=firefox)](https://OmarFaruk.github.io)  
 
- 
-</html>
+---
+
+## 📊 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarFaruk&show_icons=true&theme=tokyonight)  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=OmarFaruk&theme=react-dark)  
+
+---
+
+## 🚀 **Top Languages**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFaruk&layout=compact&theme=tokyonight)  
+
+---
+
+## ✨ **Animated Welcome Message**  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7D72D&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding!+💻)  
+
+---
+
+## 🌟 **Pinned Projects**  
+🔹 [Project 1 - My Portfolio](https://github.com/OmarFaruk/portfolio)  
+🔹 [Project 2 - JavaScript Calculator](https://github.com/OmarFaruk/js-calculator)  
+🔹 [Project 3 - Ethical Hacking Tools](https://github.com/OmarFaruk/hacking-tools)  
+
+---
+
+🔥 **Thanks for visiting!** 🚀  
